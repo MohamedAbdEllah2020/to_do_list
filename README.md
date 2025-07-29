@@ -1,19 +1,19 @@
 
-## Features of the To-Do List App
-# Add Tasks
-# Display Tasks
-# Mark Tasks as Done / Not Done
-# Delete Tasks
-# Real-time UI Update
+# Features of the To-Do List App
+## Add Tasks
+## Display Tasks
+## Mark Tasks as Done / Not Done
+## Delete Tasks
+## Real-time UI Update
 
 # Technologies & Packages
-# Firebase Sync	    
+## Firebase Sync	    
                 :firebase_core, cloud_firestore, firebase_auth
-# Notifications		    
+## Notifications		    
                 :flutter_local_notifications, firebase_messaging_notifiction
-# State Management		    
+## State Management		    
                 :bloc 
-# local database	    
+## local database	    
                 :shard_prefence
                
     
