@@ -1,10 +1,10 @@
 
 # Features of the To-Do List App
-## Add Tasks
-## Display Tasks
-## Mark Tasks as Done / Not Done
-## Delete Tasks
-## Real-time UI Update
+ Add Tasks
+ Display Tasks
+ Mark Tasks as Done / Not Done
+ Delete Tasks
+ Real-time UI Update
 
 # Technologies & Packages
 ## Firebase Sync	    
