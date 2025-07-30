@@ -1,16 +1,20 @@
-# to_do_list
 
-A new Flutter project.
+# Features of the To-Do List App
+ Add Tasks
+ Display Tasks
+ Mark Tasks as Done / Not Done
+ Delete Tasks
+ Real-time UI Update
 
-## Getting Started
+# Technologies & Packages
+## Firebase Sync	    
+                :firebase_core, cloud_firestore, firebase_auth
+## Notifications		    
+                :flutter_local_notifications, firebase_messaging_notifiction
+## State Management		    
+                :bloc 
+## local database	    
+                :shard_prefence
+               
+    
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
