@@ -31,9 +31,10 @@ dependencies:
   cupertino_icons: ^1.0.8
   firebase_auth: null
   firebase_core: null
-  firebase_messaging:
+  firebase_messaging: null
   flutter:
     sdk: flutter
+  flutter_bloc: ^9.1.1
   shared_preferences: null
 
 dev_dependencies:

@@ -6,3 +6,4 @@ const Color kLightBlack = Color(0xff393433);
 const Color kblue = Color(0xff7990F8);
 final Color kLightBlue = Color(0xff7990F8).withOpacity(.1);
 final Color kwhite = Color(0xffFFFFFF);
+final Color klightGrey = Color(0xffDEDEDE);
